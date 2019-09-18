@@ -10,3 +10,9 @@ span{
   margin: 12px;
   padding: 4px;
 }
+button{
+  border: 2px;
+  margin: 2px;
+  padding: 2px;
+  background-color: #f9ee82;
+}
