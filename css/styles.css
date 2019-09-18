@@ -1,0 +1,12 @@
+body{
+  background-color: #80ced6;
+}
+
+span{
+  float: right;
+}
+.tree{
+  border: 2px;
+  margin: 12px;
+  padding: 4px;
+}
