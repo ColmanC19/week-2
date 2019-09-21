@@ -1,18 +1,31 @@
 body{
-  background-color: #80ced6;
+  background-image:url(http://placebeard.it/g/640x480);
+
+}
+.form-group{
+  font-weight: bolder;
+  color: #fffe00;
+  font-size: 20px:
+}
+h5{
+  font-weight: bolder;
+  color: #fffe00;
+  font-size: 20px;
+}
+h1{
+  font-weight: bolder;
+  color: #fffe00;
+  font-size: 30px;
 }
 
-span{
-  float: right;
-}
-.tree{
-  border: 2px;
-  margin: 12px;
-  padding: 4px;
-}
 button{
   border: 2px;
   margin: 2px;
   padding: 2px;
   background-color: #f9ee82;
+}
+.radio{
+  font-weight: bolder;
+  color: #fffe00;
+  font-size: 20px;
 }
