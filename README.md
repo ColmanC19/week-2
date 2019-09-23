@@ -6,7 +6,7 @@
 
 
 
-This is a simple survey I made for class at Epicodus. I used html, css, javascript, bootstrap and jquery to make it. It is a simple survey using 5 questions with four possible answers for each one. user fills it out and hits submit to find out what programming language they should start learning!
+This is a simple survey I made for class at Epicodus. I used html, css, javascript, bootstrap and jquery to make it. It is a simple survey using 5 questions with four possible answers for each one. User fills it out and hits submit to find out what programming language they should start learning!
 
 ## Setup/Installation Requirements
 
@@ -27,8 +27,7 @@ _If you run into any issues, or want any additional information please contact m
 
 
 
-_I used html, css, javascript, bootstrap (* Bootstrap v3.3.7 (http://getbootstrap.com)) and jquery (jQuery JavaScript Library v3.4.1
-* https://jquery.com/)._
+I used html, css, javascript, bootstrap (* Bootstrap v3.3.7 (http://getbootstrap.com)) and jquery (jQuery JavaScript Library v3.4.1 https://jquery.com/).
 
 ### License
 
