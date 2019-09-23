@@ -10,6 +10,7 @@
   <body>
     <div class="container">
       <h1>Complete the questions below to find out which programming language is right for you:</h1>
+      <form id="survey">
       <div class="form-group">
         <label for="beverage">When a friend invites you over to watch a Trail Blazers game do you: </label>
         <select class="form-control" id="beverage">
@@ -50,23 +51,31 @@
         <option value="4">Let's party! I enjoy meeting new people and trying new things</option>
       </select>
     </div>
-    <h5>Please select the dining option that fits you best</h5>
-    <div class="radio">
-      <label>
-        <input type="radio" name="food" value="1">
-        Fine dining only
-      </label>
-      <label>
-        <input type="radio" name="food" value="2">
-        Local street food
-      </label>
-      <label>
-        <input type="radio" name="food" value="3">
-        Casual sit down
-      </label>
+    <div class="form-group">
+      <label for="dining">How do you enjoy your dining experiences?</label>
+      <select class="form-control" id="dining">
+        <option></option>
+        <option value="1">Eat by myself, don't look at me!</option>
+        <option value="2">I like venturing outside, but tend to stick to restaurants I know.</option>
+        <option value="3">Fine dining, jacket required is the only way I go.</option>
+        <option value="4">I like researching new and exciting food trends and I keep a never ending list of new spots to try out with friends!</option>
+      </select>
     </div>
-    <button type="submit" name="button">Click here to find out which programming language best fits your skill set and learning abilities!</button>
+<div id="output">
 
+
+    <button type="submit" name="button">Click here to find out which programming language best fits your skill set and learning abilities!</button>
+      </form>
+    <div id="ruby">
+      <p>Based upon your answers we believe that you should begin the Ruby track!</p>
+    </div>
+    <div id="python">
+      <p>Thanks for filling out the survey, we believe that your skill set is best suited for Python!</p>
+    </div>
+    <div id="javascript">
+      <p>Way to go! You're a perfect match for Javascript!</p>
+    </div>
+    </div>
 
     </div>
   </body>
