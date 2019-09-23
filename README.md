@@ -6,7 +6,7 @@
 
 
 
-{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a simple survey I made for class at Epicodus. I used html, css, javascript, bootstrap and jquery to make it. It is a simple survey using 5 questions with four possible answers for each one. user fills it out and hits submit to find out what programming language they should start learning!
 
 ## Setup/Installation Requirements
 
@@ -15,20 +15,20 @@
 * _If you don't wish to make any changes you can simply double click the index.html inside that cloned directory and it will open an html page in your internet browser._
 
 
-_{I believe you can run this on any system. I did download the most recent version of bootstrap and jquery}_
+_I believe you can run this on any system. I did download the most recent version of bootstrap and jquery_
 
 
 
-_{No known bugs at this point}_
+_No known bugs at this point_
 
 
 
-_{If you run into any issues, or want any additional information please contact me at curriecolman@gmail.com.}_
+_If you run into any issues, or want any additional information please contact me at curriecolman@gmail.com._
 
 
 
-_{I used html, css, javascript, bootstrap (* Bootstrap v3.3.7 (http://getbootstrap.com)) and jquery (jQuery JavaScript Library v3.4.1
-* https://jquery.com/).}. _
+_I used html, css, javascript, bootstrap (* Bootstrap v3.3.7 (http://getbootstrap.com)) and jquery (jQuery JavaScript Library v3.4.1
+* https://jquery.com/)._
 
 ### License
 
